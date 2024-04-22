@@ -1,8 +1,8 @@
 body {
-    background-color: #66806d
+    background-color: #e28cde
 }
 #bgcolor {
-    background-color: #66806d;
+    background-color: #fd9adf;
 }
 #navbar-brand{
     font-size: 40px;
@@ -20,7 +20,7 @@ body {
     max-width: 800px;
 }
 .profile {
-    background-color: #66806d;
+    background-color: #d199b0;
     border: 1px solid black;
     color: #fff;
     padding: 20px;
